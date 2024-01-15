@@ -1,0 +1,8 @@
+svm,ipaddress,interface,exportname,protocol,exportpolicy,client,vol,path
+<enter svm name>,<enter IP>,<$svm>_lif,Cifs,cifs,Cifs,0.0.0.0/0,<enter volume name>,</sharename>
+<enter svm name>,<enter IP>,<$svm>_lif,Cifs,cifs,Cifs,0.0.0.0/0,<enter volume name>,</sharename>
+<enter svm name>,<enter IP>,<$svm>_lif,Cifs,cifs,Cifs,0.0.0.0/0,<enter volume name>,</sharename>
+<enter svm name>,<enter IP>,<$svm>_lif,Cifs,cifs,Cifs,0.0.0.0/0,<enter volume name>,</sharename>
+
+##Delete below example before use##
+sample_svm,192.168.1.12,<$svm>_lif,Cifs,cifs,Cifs,0.0.0.0/0,sampleshare,/sampleshare
