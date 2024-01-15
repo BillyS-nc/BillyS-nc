@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BillyS-nc
 - 👀 I’m interested in obtaining a position either as a Pen Tester or Ethical Hacker
-- 🌱 I’m currently taking a Boot Camp course through UNC Charlotte in Cyber Security
+- 🌱 I have completed a Boot Camp course through UNC Charlotte in Cyber Security abd currently working as a Backup (Data Protection) Engineer
 - 💞️ I’m looking to collaborate on many aspects of the Cyber Security world
 - 📫 To get in touch with me, please reach out to acritical@yahoo.com
 
